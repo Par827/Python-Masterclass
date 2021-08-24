@@ -1,5 +1,5 @@
 print("Today is a great day to learn Python!")
-print('Python is fun')  #REEEEEEEEEEEEEEMACHINE
+print('Python is fun')  #RE
 print("Python's string are easy to use")
 print('We can even include "Quotes" in strings')
 print("Hello" + " World")
