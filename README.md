@@ -1,0 +1,1 @@
+This project showcases what I'm learning while working with python
